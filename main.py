@@ -7,6 +7,8 @@ from statsmodels.tsa.seasonal import seasonal_decompose as season
 from statsmodels.tsa.arima.model import ARIMA
 from pmdarima import auto_arima
 
+
+
 # Set page configuration
 st.set_page_config(page_title="Walmart Sales Analysis", layout="wide")
 
